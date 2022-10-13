@@ -1,0 +1,32 @@
+#numero1{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0;
+    height: 100%; 
+    margin-bottom: 10px;
+}
+#numero2{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0;
+    height: 100%; 
+    margin-bottom: 10px;
+}
+#numero3{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0;
+    height: 100%; 
+    margin-bottom: 10px;
+}
+#numero4{
+    background-color: aqua;
+    padding: 20px;
+    height: 100%; 
+    margin-bottom: 10px;
+    margin-left: 56px;
+}
+.calcu{
+    background-color: black;
+    width: 170px;
+}
